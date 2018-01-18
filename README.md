@@ -1,2 +1,3 @@
 # hello-world
-world of github dane
+World of Github dane
+Thank you for giving some time to read me! I feel honored.
